@@ -57,7 +57,7 @@ padding: 5px;
 .center {
   grid-column: 1 / 8;
   grid-row: 2 / 8;
-  padding: 150px;
+  padding: 170px;
   background-color: #000000;
 }
  
