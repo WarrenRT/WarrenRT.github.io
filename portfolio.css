@@ -42,6 +42,7 @@ padding: 5px;
  }
 
  .container2 {
+  display: inline-block;
   background-color: #000000;
   color: #f8f4f4;
   text-align: center;
@@ -50,14 +51,14 @@ padding: 5px;
   border-style: dashed;
   border-color: #ffffff;
   width: 435px;
-  height: 520px;
+  height: 530px;
  } 
 
 .center {
   grid-column: 1 / 8;
   grid-row: 3 / 8;
   padding: 150px;
-     background-color: #000000;
+  background-color: #000000;
 }
  
 
