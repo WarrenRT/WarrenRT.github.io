@@ -45,8 +45,6 @@ padding: 100px;
  .container2 {
   display: inline-table;
   z-index: 20;
-  width: 435px;
-  height: 500px;
   background-color: #000000;
   color: #f8f4f4;
   text-align: center;
@@ -60,7 +58,7 @@ padding: 100px;
 .center {
   grid-column: 1 / 8;
   grid-row: 3 / 8;
-  padding: 100px;
+  padding: 200px;
 }
  
 
