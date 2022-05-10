@@ -43,6 +43,7 @@ padding: 100px;
  }
 
  .container2 {
+    display: inline-block;
   background-color: #000000;
   color: #f8f4f4;
   text-align: center;
