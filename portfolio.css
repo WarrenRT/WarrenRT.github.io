@@ -10,7 +10,7 @@
   background-color: #000000;
   color: #f8f4f4;
   text-align: center;
-padding: 5px;
+  padding: 5px;
 }
 .body {
   grid-column: 1 / 8;
@@ -18,7 +18,7 @@ padding: 5px;
   background-color: #000000;
   color: #f8f4f4;
   text-align: center;
-  padding: 80px;
+  padding: 120px;
   font-family: "Audiowide", sans-serif;
 }
 
@@ -57,7 +57,7 @@ padding: 5px;
 .center {
   grid-column: 1 / 8;
   grid-row: 2 / 8;
-  padding: 170px;
+  padding: 180px;
   background-color: #000000;
 }
  
