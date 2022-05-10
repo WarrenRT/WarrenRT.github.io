@@ -32,7 +32,7 @@ padding: 5px;
 
  .container1 {
 float: left;
-     
+  z-index: 20px;
   background-color: #000000;
   color: #f8f4f4;
   text-align: center;
@@ -57,7 +57,7 @@ float: left;
 
 .center {
   grid-column: 1 / 8;
-  grid-row: 3 / 8;
+  grid-row: 4 / 8;
   padding: 150px;
   background-color: #000000;
 }
