@@ -18,7 +18,7 @@ padding: 5px;
   background-color: #000000;
   color: #f8f4f4;
   text-align: center;
-  padding: 70px;
+  padding: 80px;
   font-family: "Audiowide", sans-serif;
 }
 
@@ -30,9 +30,8 @@ padding: 5px;
   font-family: "Audiowide", sans-serif;
  }
 
- .container1 {
-float: left;
-     
+ .container1 {  
+  display: inline-block;   
   background-color: #000000;
   color: #f8f4f4;
   text-align: center;
