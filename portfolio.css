@@ -20,7 +20,7 @@ padding: 5px;
   text-align: center;
   padding: 100px;
   font-family: "Audiowide", sans-serif;
-    padding: 200px;
+    padding: 150px;
 }
 
 .container {
@@ -56,6 +56,9 @@ padding: 5px;
   font-family: "Audiowide", sans-serif;
   border-style: dashed;
   border-color: #ffffff;
+  padding: 200px;
+  grid-column: 1 / 8;
+  grid-row: 3 / 8;
  } 
 
  
