@@ -43,8 +43,6 @@ padding: 100px;
  }
 
  .container2 {
-  display: inline-table;
-  z-index: 20;
   background-color: #000000;
   color: #f8f4f4;
   text-align: center;
@@ -52,7 +50,8 @@ padding: 100px;
   font-family: "Audiowide", sans-serif;
   border-style: dashed;
   border-color: #ffffff;
-
+  width: 435px;
+  height: 500px;
  } 
 
 .center {
