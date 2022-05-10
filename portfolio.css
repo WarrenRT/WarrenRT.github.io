@@ -1,5 +1,6 @@
 .grid{
     display: grid;
+      grid-template-columns: auto auto auto;
 }
 
 .header {
@@ -19,6 +20,7 @@ padding: 5px;
   text-align: center;
   padding: 100px;
   font-family: "Audiowide", sans-serif;
+    padding: 200px;
 }
 
 .container {
