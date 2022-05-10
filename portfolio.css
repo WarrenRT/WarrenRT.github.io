@@ -1,15 +1,21 @@
-
+.grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: minmax(200px, auto);
+}
 
 .header {
   font-family: "Audiowide", sans-serif;
-
+  grid-column: 1;
+  grid-row: 1 / 2;
   background-color: #000000;
   color: #f8f4f4;
   text-align: center;
 padding: 5px;
 }
 .body {
-
+  grid-column: 1 / 6;
+  grid-row: 2 / 6;
   background-color: #000000;
   color: #f8f4f4;
   text-align: center;
@@ -18,8 +24,7 @@ padding: 5px;
 }
 
 .container {
-float: left;
-  z-index: 1;
+
   background-color: #000000;
   color: #f8f4f4;
   text-align: center;
@@ -55,13 +60,9 @@ float: left;
 
  
 
-.navbar {
-
-  background-color: #000000;
-  font-family: "Audiowide", sans-serif;
-}
 .footer {
-
+  grid-column: 1 / 5;
+  grid-row: 5 / 7;
   padding: 50px;
   background-color: #000000;
   color: #f8f4f4;
