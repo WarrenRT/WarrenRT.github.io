@@ -56,7 +56,7 @@
 
 .center {
   grid-column: 1 / 8;
-  grid-row: 2 / 8;
+  grid-row: 1 / 8;
   padding: 180px;
   background-color: #000000;
 }
